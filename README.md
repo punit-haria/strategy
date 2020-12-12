@@ -2,6 +2,4 @@
 
 ***
 
-*work-in-progress*
-
-**Strategy** is a C++ implementation of a toy algorithmic trading system in combination with a backtester written in Python. 
+Toy algorithmic trading system in C++ and backtester in Python. 
